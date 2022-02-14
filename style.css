@@ -94,10 +94,11 @@ html {
     padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 900;
     text-align: center;
     max-width: 50vw;
-    color: rgb(166, 231, 240);
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* End of personal information specs */
@@ -122,10 +123,11 @@ html {
     padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: rgb(166, 231, 240);
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 /* End of CSUF EDU specs */
 
@@ -148,12 +150,13 @@ html {
 
 #uci p {
     padding-top: 15px;
-    font-size: 20px;
+    font-size: 18px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: rgb(166, 231, 240);
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* End of UCI EDU specs */
@@ -179,10 +182,11 @@ html {
     padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: rgb(77, 231, 252);
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* End of Project One specs */
@@ -208,10 +212,11 @@ html {
 	padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: gold;
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* Additional Works Specs - End Weather Dash */
@@ -237,10 +242,11 @@ html {
 	padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: rgb(77, 231, 252);
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* Additional Works Specs - End of Coding Quiz */
@@ -269,10 +275,11 @@ html {
 	padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: rgb(0, 224, 253);
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* Additional Works Specs - End of Day Planner */
@@ -301,10 +308,11 @@ html {
 	padding-top: 15px;
     font-size: 20px;
     font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 450;
+    font-weight: 700;
     text-align: center;
     max-width: 50vw;
-    color: gold;
+    text-shadow: 0 0 16px white;
+    color: darkblue;
 }
 
 /* Additional Works Specs - End of Password Generator*/
@@ -602,6 +610,7 @@ html {
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
 	text-align: center;
+    text-shadow: 0 0 16px white;
 }
 
 #contact .contact-items {
